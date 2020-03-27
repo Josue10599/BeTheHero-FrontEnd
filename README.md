@@ -12,10 +12,14 @@ O projeto *Be The Hero* consite em criar um sistema para que ONGs se cadastrem e
 Para realizar o cadastro a empresa necessita deixar o telefone que é vínculado ao WhatApp e um e-mail para que os outros usuários veja e consigam ajudar a organização.
 Abaixo estou colocando as imagens de como o projeto ficou voltado para a ONG, a aplicação mobile será voltada para o doador:
 
-1. [Página de Login](/docs/login.png)
+### 1. Página de Login
+![Página de Login](/docs/login.png)
 
-2. [Registrar ONG](/docs/register.png)
+### 2. Cadastro de ONG
+![Registrar ONG](/docs/register.png)
 
-3. [Perfil](/docs/profile.png)
+### 3. Perfil da ONG
+![Perfil](/docs/profile.png)
 
-4. [Cadastrar Incidente](/docs/new-incident.png)
+### 4. Cadastro de Incidentes
+![Cadastrar Incidente](/docs/new-incident.png)
